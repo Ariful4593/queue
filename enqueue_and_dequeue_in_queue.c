@@ -49,4 +49,7 @@ int main()
     printf("%d\n", my_q.tail);
     enqueue(&my_q, 6);
     printf("%d\n", my_q.tail);
+
+    return 0;
+
 }
